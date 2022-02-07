@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aouaadidi
+- 👋 Hi, I’m Ouaadidi Abdelaali
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development (full stack)
 
